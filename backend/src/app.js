@@ -13,7 +13,7 @@ app.use(express.json());
 
 // Default route
 app.get('/', (req, res) => {
-  res.send('Backend running well!!');
+  res.send('Loagma CRM Backend running well!!');
 });
 
 // Routes
